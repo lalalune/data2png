@@ -13,7 +13,8 @@ Watermarking your images, adding metadata for game pieces or collectibles, ticke
 ## Future Work
 Ask me about NAL blocks and data2mp4 :)
 
-## Usage
+### Note for browsers
+This package has one dependency, Jimp, which has an open issue with having an fs require in one of it's own dependencies. If you want this to work with webpack, see: https://github.com/oliver-moran/jimp/issues/903
 
 ### Embed data
 ```
