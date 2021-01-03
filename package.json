@@ -1,0 +1,17 @@
+{
+  "name": "json2png",
+  "version": "0.1.0",
+  "description": "Embed JSON in a PNG image. For NFTs and stuff.",
+  "main": "src/index.js",
+  "scripts": {},
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawticus/image2png.git"
+  },
+  "author": "shawticus",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.10.3"
+  }
+}
